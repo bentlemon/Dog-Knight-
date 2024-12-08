@@ -1,6 +1,9 @@
-# Dog Knight! (Course project - TMN114)
+# Dog Knight!
 ## Description
-A simple behaviour tree implementation in Unity (2022). Made for the course _Artificial Intelligence for Interactive Media_ at LiU University. 
+A simple behaviour tree implementation in Unity (2022) with patrol and attack!
+
+### Code
+Originally uploaded to Gitlab, only asset code is provided here!!
 
 ## Tree setup for Knight Dog
 Dog knight has a simple tree setup that is the following:
@@ -17,7 +20,7 @@ Dog knight has a simple tree setup that is the following:
         });
 ```
 
-## Video
+## Demo Video
 Click the following image to see the result! :)
 
 [![Dog Knight Demo Video](https://img.youtube.com/vi/BLsSRWvRAQ4/0.jpg)](https://www.youtube.com/watch?v=BLsSRWvRAQ4)
