@@ -2,6 +2,11 @@
 ## Description
 A simple behaviour tree implementation in Unity (2022) with patrol and attack!
 
+What he does:
+* Random patrol pattern with random waiting time
+* Detect enemies & walks to them
+* Slays his enemies!! 
+
 ### Code
 Originally uploaded to Gitlab, only asset code is provided here!!
 
