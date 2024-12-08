@@ -1,4 +1,4 @@
-# U・ᴥ・U Dog Knight! U・ᴥ・U
+# Dog Knight! U・ᴥ・U
 ## Description
 A simple behaviour tree implementation in Unity (2022) with patrol and attack!
 
